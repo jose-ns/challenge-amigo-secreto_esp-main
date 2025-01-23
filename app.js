@@ -3,20 +3,20 @@
 //array para almacenar los nombres
 let amigos = [];
 
-function agregarAmigo(){
-    let nombre = document.getElementById('amigo').value;
-    if (nombre == "") {
+//boton agregar
+function agregarAmigo(){ 
+    let nombre = document.getElementById('amigo').value; //obtener el valor en el input
+    if (nombre == "") { // si no hay nombre alert
         alert('Por favor, inserte un nombre.');
         return;
     }else{
+        //agrega un elemento a la lista,limpia el input y muestra elementos en el ul
         amigos.push(nombre);
         limpiarCaja();
         actualizaLista();
     }
     return;
 }
-
-console.log(amigos);
 
 function limpiarCaja(){
     //limpiar la caja de texto
@@ -36,7 +36,7 @@ function actualizaLista(){
         nuevoLi.textContent = amigos[i];
         //agregar li a la lista ul
         lista.appendChild(nuevoLi);
-    } 
+    } // ocultar o mostrar la lista de amigos
     if(amigos.length > 0){
         lista.classList.remove('oculta');
     } else {
@@ -44,14 +44,14 @@ function actualizaLista(){
     }
 }
 
-
+//boton sortear
     function sortearAmigo(){
         if (amigos.length === 0){
             alert('No hay amigos disponibles para el sorteo.');
             return;
         }
-        let indiceAleatorio = Math.floor(Math.random() * amigos.length);
-        let amigoSorteado = amigos[indiceAleatorio];
-        document.getElementById('resultado').innerHTML = amigoSorteado;
-        document.getElementById('listaAmigos').classList.add('oculta');
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length); //n. indice = n.random * n.de la lista
+        let amigoSorteado = amigos[indiceAleatorio]; // elige un item numerado de la lista con el numero generado
+        document.getElementById('resultado').innerHTML = amigoSorteado; //ver en el ul resultado el elemento de la lista
+        document.getElementById('listaAmigos').classList.add('oculta'); //para ocultar la lista de nombres agregados
     }
