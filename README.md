@@ -28,4 +28,4 @@ Para utilizar este proyecto, simplemente descarga o clona el repositorio y abre 
 
 2. Ingresa nombres para tu actividad de amigo secreto
 
-[![Como usar la web](https://imgur.com/EqlBA6y)](https://imgur.com/a/ingresa-amigo-secreto-7oUWWDG)
+[![Como usar la web](https://i.imgur.com/EqlBA6y.jpg)](https://imgur.com/a/ingresa-amigo-secreto-7oUWWDG)
