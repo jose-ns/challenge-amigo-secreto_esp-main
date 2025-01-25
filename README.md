@@ -1,6 +1,6 @@
 # Proyecto: Challenge amigo secreto
 
-Este proyecto es un desafío que forma parte de un porgrama de estudios de Alura Latam. Consta de una web que permite ingresar y sortear nombre para la actividad de amigo secreto.
+Este proyecto es un desafío que forma parte de un porgrama de estudios de Alura Latam. Consta de una web que permite ingresar y sortear un nombre para la actividad de amigo secreto.
 
 ## Tabla de Contenidos
 
@@ -25,4 +25,4 @@ Para utilizar este proyecto, simplemente descarga o clona el repositorio y abre 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+   git clone https://github.com/jose-ns/challenge-amigo-secreto_esp-main
