@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Proyecto: Challenge amigo secreto
 
-Una breve descripción de lo que hace el proyecto y su propósito.
+Este proyecto es un desafío que forma parte de un porgrama de estudios de Alura Latam. Consta de una web que permite ingresar y sortear nombre para la actividad de amigo secreto.
 
 ## Tabla de Contenidos
 
@@ -12,13 +12,12 @@ Una breve descripción de lo que hace el proyecto y su propósito.
 
 ## Características
 
-- **Diseño Responsivo**: Se adapta a diferentes tamaños de pantalla.
 - **HTML/CSS/JS**: Utiliza tecnologías estándar para la construcción.
 - **Recursos incluidos**: Imágenes, fuentes, etc.
 
 ## Demostración
 
-Puedes ver el proyecto en acción [aquí](URL_DE_TU_DEMO) (reemplaza con la URL real de tu demostración).
+Puedes ver el proyecto en acción [aquí](https://jose-ns.github.io/challenge-amigo-secreto_esp-main/)
 
 ## Uso
 
