@@ -15,7 +15,7 @@ Este proyecto es un desafío que forma parte de un porgrama de estudios de Alura
 
 ## Demostración
 
-Puedes ver el proyecto en acción [aquí](https://jose-ns.github.io/challenge-amigo-secreto_esp-main/)
+Puedes ver el proyecto en vivo [aquí](https://jose-ns.github.io/challenge-amigo-secreto_esp-main/)
 
 ## Uso
 
