@@ -7,7 +7,6 @@ Este proyecto es un desafío que forma parte de un porgrama de estudios de Alura
 - [Características](#características)
 - [Demostración](#demostración)
 - [Uso](#uso)
-- [Video Demostración](#video)
 
 ## Características
 
