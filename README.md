@@ -26,8 +26,6 @@ Para utilizar este proyecto, simplemente descarga o clona el repositorio y abre 
    ```bash
    git clone https://github.com/jose-ns/challenge-amigo-secreto_esp-main.git
 
-## Video Demostración
+2. Ingresa nombres para tu actividad de amigo secreto
 
-Mira cómo se usa la web en este video:
-
-[![Video Demostración](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+(https://imgur.com/a/ingresa-amigo-secreto-7oUWWDG)
